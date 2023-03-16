@@ -9,16 +9,13 @@ in a folder name of .txt files to run tests on.
 
 ## **Contents**
 
-For this project we will have 8 files:
+For this project we will have 5 files:
 
 1. merge_main.py
 2. merge_sort.py
 3. numgen.py
 4. file_functions.py
-5. README.md
-6. .gitignore
-7. MergeSortReport.pdf
-8. Report.docx (source for pdf document)
+5. .gitignore
 
 ## **How to use**
 
@@ -29,13 +26,13 @@ There are two ways to run this program:
 
 - if following 2nd way, you can repeat 1st step for desired amount of files, and put in folder.
 
-### **1st Step**
+## **1st Step**
 
 -Creating a random list of integers in .txt format.
 
 -issue this command:
 
-**python3 numgen.py filename quantity range_size**
+```python3 numgen.py filename quantity range_size```
 
 filename: Name of file. Either .txt format, or folder name.
 
@@ -43,17 +40,17 @@ quantity: amount of integers you would like to make
 
 range_size: range of integers -size / 2 to  +size / 2
 
-### **2nd Step**
+## **2nd Step**
 
 -All we need for this is the filename from last command or a folder name
 
 -issue this command:
 
-**python3 merge_main.py filename.txt**
+```python3 merge_main.py filename.txt```
 
 -or
 
-**python3 merge_main.py foldername**
+```python3 merge_main.py foldername```
 
 ### **NOTE**
 
