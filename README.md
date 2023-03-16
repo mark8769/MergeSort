@@ -32,7 +32,9 @@ There are two ways to run this program:
 
 -issue this command:
 
-```python3 numgen.py filename quantity range_size```
+```
+python3 numgen.py filename quantity range_size
+```
 
 filename: Name of file. Either .txt format, or folder name.
 
@@ -46,11 +48,15 @@ range_size: range of integers -size / 2 to  +size / 2
 
 -issue this command:
 
-```python3 merge_main.py filename.txt```
+```
+python3 merge_main.py filename.txt
+```
 
 -or
 
-```python3 merge_main.py foldername```
+```
+python3 merge_main.py foldername
+```
 
 ### **NOTE**
 
