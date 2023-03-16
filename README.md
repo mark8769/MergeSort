@@ -1,11 +1,7 @@
 ## **Purpose**
 
-The purpose of project 1 is to implement the Merge Sort algorithm in python.
-Alongside this we will be using git to make all our commits and tags when we have completed milestones.
-We will also be learning more about commenting style guidelines for specific languages. At the end 
-of this project we will be turning in a report with our results to show that Merge Sort runs 
-in NlogN time. Our finished program will have the functionality of passing 
-in a folder name of .txt files to run tests on.
+Implementation of the Merge Sort algorithm in python. Testing merge sort to show that it runs in NlogN time.
+Finished project has the functionality of passing in a folder name of .txt files to run tests on.
 
 ## **Contents**
 
