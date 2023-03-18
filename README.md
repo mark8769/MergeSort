@@ -5,12 +5,12 @@ Finished project has the functionality of passing in a folder name of .txt files
 
 ## **Contents**
 
-For this project we will have 5 files:
+For this project we will have 4 files:
 
-1. merge_main.py
-2. merge_sort.py
-3. numgen.py
-4. file_functions.py
+1. merge_main.py - Entry point of the project.
+2. merge_sort.py - Merge sort implementation
+3. numgen.py - Writes random numbers to a file given some range, and filename.
+4. file_functions.py - Functions to read and write to files.
 
 ## **How to use**
 
