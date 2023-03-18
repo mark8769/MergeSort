@@ -11,7 +11,6 @@ For this project we will have 5 files:
 2. merge_sort.py
 3. numgen.py
 4. file_functions.py
-5. .gitignore
 
 ## **How to use**
 
